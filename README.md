@@ -569,16 +569,6 @@ I'm also developing practical skills in **Software Quality Assurance and test au
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=Pial-crypto&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
-alt="GitHub Stats"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pial-crypto&layout=compact&theme=tokyonight&hide_border=true"
-alt="Top Languages"/>
-
-<br><br>
-
 <img
 src="https://streak-stats.demolab.com?user=Pial-crypto&theme=tokyonight&hide_border=true"
 alt="GitHub Streak"/>
