@@ -284,163 +284,240 @@ Developed a **Bangla-English bilingual legal question answering system** using L
 
 # 🚀 Featured Projects
 
+> A collection of full-stack applications, AI systems, mobile applications, and research-driven projects I've built.
+
+---
+
 ## 📋 Assignment Management System
+
+<p align="center">
+  <img src="YOUR_ASSIGNMENT_IMAGE_URL" alt="Assignment Management System" width="900"/>
+</p>
 
 ### `ASP.NET Core` · `Next.js` · `Supabase PostgreSQL`
 
-A full-stack assignment management application with authentication, authorization and RESTful APIs.
+A full-stack assignment and submission management platform designed to simplify academic workflows through secure authentication, role-based authorization, and RESTful APIs.
 
-### ✨ Features
+### ✨ Highlights
 
-- 🔐 JWT Authentication
-- 👥 Role-Based Authorization
-- 🔌 RESTful APIs
-- 🔷 ASP.NET Core
-- ▲ Next.js
-- 🐘 Supabase PostgreSQL
-- 🚀 Deployed on Netlify & Render
+- 🔐 JWT-based authentication & authorization
+- 👥 Role-based access control
+- 📝 Assignment & submission management
+- 🔌 RESTful API architecture
+- 🗄️ Supabase PostgreSQL
+- 🚀 Netlify & Render deployment
+
+### 🛠️ Tech Stack
+
+`ASP.NET Core` `Next.js` `Supabase` `PostgreSQL` `JWT` `REST API`
 
 🔗 **[Live Demo →](YOUR_LIVE_DEMO_LINK)**  
-🔗 **[GitHub →](YOUR_GITHUB_LINK)**
+💻 **[GitHub →](YOUR_GITHUB_LINK)**
 
 ---
 
 ## 🏆 Sports Auction Management System
 
+<p align="center">
+  <img src="https://mantrafootball.org/assets/rules/auction_screen1-6a56ba4276d8ddfe99faaeb1051df24e6559ffafae814a6dfd613de48344e562.png" alt="Sports Auction Management System" width="900"/>
+</p>
+
 ### `React.js` · `Next.js` · `MongoDB` · `Prisma` · `WebSocket` · `AI`
 
-A full-stack sports auction platform supporting multiple user roles and real-time player bidding.
+A real-time sports auction platform built for tournament management, player valuation, and competitive live bidding.
 
-### ✨ Features
+### ✨ Highlights
 
-- 🏟️ Tournament management
-- 👤 Tournament Manager / Organizer / Player roles
-- 💰 Player auction
-- ⚡ WebSocket-based live bidding
-- 🧠 AI-powered player price prediction
-- 📊 Player valuation
-- 🗄️ MongoDB
-- 🔷 Prisma ORM
+- 🏟️ Tournament & auction management
+- 👥 Manager, organizer & player roles
+- 💰 Real-time player auctions
+- ⚡ WebSocket-powered live bidding
+- 🧠 AI-based player price prediction
+- 📊 Player valuation & analytics
+- 🗄️ MongoDB with Prisma ORM
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/Sports-Auction-Management)**
+### 🛠️ Tech Stack
+
+`React.js` `Next.js` `MongoDB` `Prisma` `WebSocket` `AI`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/Sports-Auction-Management)**
 
 ---
 
 ## 📈 Project Health Tracker
 
+<p align="center">
+  <img src="https://cdn.boldbi.com/wp/blogs/15-kpi-dashboards/project-management-v1.webp" alt="Project Health Tracker" width="900"/>
+</p>
+
 ### `Next.js` · `MongoDB` · `REST APIs`
 
-A role-based project monitoring platform designed to track projects and provide structured project management workflows.
+A role-based project monitoring platform designed to track project health, progress, and structured project management workflows.
 
-### ✨ Features
+### ✨ Highlights
 
-- 🔐 Authentication
-- 👥 Role-based access
-- 📊 Project tracking
-- 🗄️ MongoDB
+- 🔐 Secure authentication
+- 👥 Role-based access control
+- 📊 Project health & progress tracking
 - 🔌 REST API integration
-- 🚀 Vercel deployment
+- 🗄️ MongoDB database
+- ▲ Vercel deployment
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/healthyproject)**
+### 🛠️ Tech Stack
+
+`Next.js` `MongoDB` `REST API` `Vercel`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/healthyproject)**
 
 ---
 
 ## 🎵 AI vs Real Song Detection
 
+<p align="center">
+  <img src="https://fwdmusic.com/uploads/How_to_Detect_AI_Generated_Music_A_Complete_Technical_Guide.webp" alt="AI vs Real Song Detection" width="900"/>
+</p>
+
 ### `Python` · `ResNet` · `FastAPI` · `Deep Learning`
 
-A deep learning system for detecting **AI-generated vs original Bangla songs**.
+A deep learning system designed to distinguish **AI-generated Bangla songs from original human-produced recordings**.
 
-### 🏆 Result
+### 🏆 99.6% Test Accuracy
 
-**99.6% test accuracy**
+The model achieved **99.6% accuracy** on the test dataset.
 
 ### ✨ Highlights
 
-- 🎵 Audio classification
-- 🧠 ResNet-based model
-- 🇧🇩 Bangla songs
+- 🎵 AI-generated music classification
+- 🧠 ResNet-based deep learning model
+- 🇧🇩 Bangla song dataset
 - 🤖 AI-generated content detection
-- ⚡ FastAPI inference API
-- 📊 Model evaluation
+- ⚡ FastAPI inference service
+- 📊 Model evaluation & experimentation
 - 📄 Research published at **ICECTE 2026**
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/Ai-vs-real-song-detection)**  
-🔗 **[Research Paper →](YOUR_PAPER_LINK)**  
-🔗 **[Certificate →](YOUR_CERTIFICATE_LINK)**
+### 🛠️ Tech Stack
+
+`Python` `PyTorch` `ResNet` `FastAPI` `Deep Learning`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/Ai-vs-real-song-detection)**  
+📄 **[Research Paper →](YOUR_PAPER_LINK)**  
+🏅 **[Certificate →](YOUR_CERTIFICATE_LINK)**
 
 ---
 
 ## 🚕 GoGoTaxy — Ride-Sharing Android App
 
+<p align="center">
+  <img src="https://asset.kompas.com/crops/IegVvpyx-oOtNDDMD8r7XleGS78%3D/100x67%3A900x600/1200x800/data/photo/2023/09/05/64f69a1a8fcdc.jpg" alt="GoGoTaxy Ride Sharing App" width="900"/>
+</p>
+
 ### `Kotlin` · `Android` · `Firebase` · `Google Maps`
 
-A native Android ride-sharing application.
+A native Android ride-sharing application combining location services, map integration, ride management, and cloud-backed data synchronization.
 
-### ✨ Features
+### ✨ Highlights
 
 - 🗺️ Google Maps integration
-- 📍 Live location tracking
-- 🚕 Ride management
-- 🔥 Firebase
-- 🔌 Backend API integration
+- 📍 Location tracking
+- 🚕 Ride booking & management
+- 🔥 Firebase integration
+- 🔌 Backend API communication
 - 📱 Native Android development
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/GoGoTaxy)**
+### 🛠️ Tech Stack
+
+`Kotlin` `Android` `Firebase` `Google Maps`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/GoGoTaxy)**
 
 ---
 
 ## 🚗 UberClone — Cross-Platform Ride-Sharing App
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1600&q=85" alt="UberClone Ride Sharing App" width="900"/>
+</p>
+
 ### `React Native` · `REST APIs`
 
-A cross-platform ride-sharing application.
+A cross-platform ride-sharing application focused on ride booking, driver tracking, and real-time transportation workflows.
 
-### ✨ Features
+### ✨ Highlights
 
-- 📱 React Native
-- 🚕 Ride booking
+- 📱 React Native application
+- 🚕 Ride booking workflow
 - 📍 Driver tracking
-- 🔌 REST API integration
 - ⚡ Real-time ride updates
+- 🔌 REST API integration
 - 🌐 Cross-platform mobile experience
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/UberClone)**
+### 🛠️ Tech Stack
+
+`React Native` `REST API`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/UberClone)**
 
 ---
 
 ## 📚 Bookie — Book Sharing Android App
 
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1567168544646-208fa5d408fb?auto=format&fit=crop&w=1600&q=85" alt="Bookie Book Sharing App" width="900"/>
+</p>
+
 ### `Kotlin` · `Firebase` · `Android`
 
-A book-sharing mobile application with authentication, book management and real-time synchronization.
+A mobile book-sharing application with authentication, book management, and real-time cloud synchronization.
 
-### ✨ Features
+### ✨ Highlights
 
 - 🔐 User authentication
 - 📚 Book management
-- 🔥 Firebase
-- 🔄 Real-time database synchronization
-- 📱 Android / Kotlin
+- 🔄 Real-time synchronization
+- 🔥 Firebase backend
+- 📱 Native Android development
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/debapial)**
+### 🛠️ Tech Stack
+
+`Kotlin` `Android` `Firebase`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/debapial)**
 
 ---
 
 ## 📺 Clean YouTube — YouTube API Client
 
+<p align="center">
+  <img src="https://www.montahanews.com/UploadCache/libfiles/0/8/1180x694o/985.jpeg" alt="Clean YouTube" width="900"/>
+</p>
+
 ### `React` · `Vite` · `YouTube Data API` · `Easy Peasy`
 
-A React-based YouTube client focused on providing a cleaner browsing experience.
+A React-based YouTube client focused on creating a cleaner and more focused video-browsing experience.
 
-### ✨ Features
+### ✨ Highlights
 
-- 🎥 YouTube Data API
-- ⚛️ React
-- ⚡ Vite
+- 🎥 YouTube Data API integration
+- ⚛️ React architecture
+- ⚡ Vite-powered development
 - 🔄 Easy Peasy state management
+- 🎨 Cleaner video browsing experience
 
-🔗 **[GitHub →](https://github.com/Pial-crypto/Clean-Youtube-Project)**
+### 🛠️ Tech Stack
+
+`React` `Vite` `YouTube Data API` `Easy Peasy`
+
+💻 **[GitHub →](https://github.com/Pial-crypto/Clean-Youtube-Project)**
+
+---
+
+## 🌟 More on GitHub
+
+<p align="center">
+  <a href="https://github.com/Pial-crypto">
+    <img src="https://img.shields.io/badge/View%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
