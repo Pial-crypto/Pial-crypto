@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/💻%20GitHub-Pial--crypto-181717?style=for-the-badge&logo=github"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/mahamudul-hassan-pial-3ba087277/">
+<a href="https://www.linkedin.com/in/mahamudul-hassan-pial-a6a681393/">
 <img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 &nbsp;
