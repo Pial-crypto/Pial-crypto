@@ -561,7 +561,7 @@ A mobile book-sharing application with authentication, book management, and real
 
 `Kotlin` `Android` `Firebase`
 
-💻 **[GitHub →](https://github.com/Pial-crypto/debapial)**
+💻 **[GitHub →](https://github.com/Pial-crypto/Bookie)**
 
 </td>
 </tr>
@@ -603,11 +603,7 @@ A React-based YouTube client focused on creating a cleaner and more focused vide
 </tr>
 </table>
 
-
-## 🌟 More on GitHub
-
-
-<td width="50%" valign="top">
+---
 
 # 🧪 Software Quality Assurance
 
