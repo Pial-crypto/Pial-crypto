@@ -264,7 +264,7 @@ Worked as a React Native Developer contributing to the development and improveme
 <tr>
 <td width="34%" valign="middle">
 
-<img src="YOUR_LEGAL_QA_IMAGE_URL" alt="Bilingual Legal Question Answering System" width="100%"/>
+<img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?auto=format&fit=crop&w=1600&q=85" alt="Bilingual Legal Question Answering System" width="100%"/>
 
 </td>
 
