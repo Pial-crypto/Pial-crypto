@@ -602,16 +602,12 @@ A React-based YouTube client focused on creating a cleaner and more focused vide
 </td>
 </tr>
 </table>
----
+
 
 ## 🌟 More on GitHub
 
-<p align="center">
-  <a href="https://github.com/Pial-crypto">
-    <img src="https://img.shields.io/badge/View%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
----
+
+<td width="50%" valign="top">
 
 # 🧪 Software Quality Assurance
 
