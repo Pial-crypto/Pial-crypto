@@ -304,9 +304,15 @@ A **Bangla-English bilingual legal question answering system** built using **Lar
 
 ## 📋 Assignment Management System
 
-<p align="center">
-  <img src="YOUR_ASSIGNMENT_IMAGE_URL" alt="Assignment Management System" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="YOUR_ASSIGNMENT_IMAGE_URL" alt="Assignment Management System" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `ASP.NET Core` · `Next.js` · `Supabase PostgreSQL`
 
@@ -328,13 +334,23 @@ A full-stack assignment and submission management platform designed to simplify 
 🔗 **[Live Demo →](YOUR_LIVE_DEMO_LINK)**  
 💻 **[GitHub →](YOUR_GITHUB_LINK)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🏆 Sports Auction Management System
 
-<p align="center">
-  <img src="https://mantrafootball.org/assets/rules/auction_screen1-6a56ba4276d8ddfe99faaeb1051df24e6559ffafae814a6dfd613de48344e562.png" alt="Sports Auction Management System" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://mantrafootball.org/assets/rules/auction_screen1-6a56ba4276d8ddfe99faaeb1051df24e6559ffafae814a6dfd613de48344e562.png" alt="Sports Auction Management System" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `React.js` · `Next.js` · `MongoDB` · `Prisma` · `WebSocket` · `AI`
 
@@ -356,13 +372,23 @@ A real-time sports auction platform built for tournament management, player valu
 
 💻 **[GitHub →](https://github.com/Pial-crypto/Sports-Auction-Management)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📈 Project Health Tracker
 
-<p align="center">
-  <img src="https://cdn.boldbi.com/wp/blogs/15-kpi-dashboards/project-management-v1.webp" alt="Project Health Tracker" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://cdn.boldbi.com/wp/blogs/15-kpi-dashboards/project-management-v1.webp" alt="Project Health Tracker" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `Next.js` · `MongoDB` · `REST APIs`
 
@@ -383,13 +409,23 @@ A role-based project monitoring platform designed to track project health, progr
 
 💻 **[GitHub →](https://github.com/Pial-crypto/healthyproject)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🎵 AI vs Real Song Detection
 
-<p align="center">
-  <img src="https://fwdmusic.com/uploads/How_to_Detect_AI_Generated_Music_A_Complete_Technical_Guide.webp" alt="AI vs Real Song Detection" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://fwdmusic.com/uploads/How_to_Detect_AI_Generated_Music_A_Complete_Technical_Guide.webp" alt="AI vs Real Song Detection" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `Python` · `ResNet` · `FastAPI` · `Deep Learning`
 
@@ -417,13 +453,23 @@ The model achieved **99.6% accuracy** on the test dataset.
 📄 **[Research Paper →](YOUR_PAPER_LINK)**  
 🏅 **[Certificate →](YOUR_CERTIFICATE_LINK)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚕 GoGoTaxy — Ride-Sharing Android App
 
-<p align="center">
-  <img src="https://asset.kompas.com/crops/IegVvpyx-oOtNDDMD8r7XleGS78%3D/100x67%3A900x600/1200x800/data/photo/2023/09/05/64f69a1a8fcdc.jpg" alt="GoGoTaxy Ride Sharing App" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://asset.kompas.com/crops/IegVvpyx-oOtNDDMD8r7XleGS78%3D/100x67%3A900x600/1200x800/data/photo/2023/09/05/64f69a1a8fcdc.jpg" alt="GoGoTaxy Ride Sharing App" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `Kotlin` · `Android` · `Firebase` · `Google Maps`
 
@@ -444,13 +490,23 @@ A native Android ride-sharing application combining location services, map integ
 
 💻 **[GitHub →](https://github.com/Pial-crypto/GoGoTaxy)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 🚗 UberClone — Cross-Platform Ride-Sharing App
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1600&q=85" alt="UberClone Ride Sharing App" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1600&q=85" alt="UberClone Ride Sharing App" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `React Native` · `REST APIs`
 
@@ -471,13 +527,23 @@ A cross-platform ride-sharing application focused on ride booking, driver tracki
 
 💻 **[GitHub →](https://github.com/Pial-crypto/UberClone)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📚 Bookie — Book Sharing Android App
 
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1567168544646-208fa5d408fb?auto=format&fit=crop&w=1600&q=85" alt="Bookie Book Sharing App" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://images.unsplash.com/photo-1567168544646-208fa5d408fb?auto=format&fit=crop&w=1600&q=85" alt="Bookie Book Sharing App" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `Kotlin` · `Firebase` · `Android`
 
@@ -497,13 +563,23 @@ A mobile book-sharing application with authentication, book management, and real
 
 💻 **[GitHub →](https://github.com/Pial-crypto/debapial)**
 
+</td>
+</tr>
+</table>
+
 ---
 
 ## 📺 Clean YouTube — YouTube API Client
 
-<p align="center">
-  <img src="https://www.montahanews.com/UploadCache/libfiles/0/8/1180x694o/985.jpeg" alt="Clean YouTube" width="900"/>
-</p>
+<table>
+<tr>
+<td width="32%" valign="middle">
+
+<img src="https://www.montahanews.com/UploadCache/libfiles/0/8/1180x694o/985.jpeg" alt="Clean YouTube" width="100%"/>
+
+</td>
+
+<td width="68%" valign="top">
 
 ### `React` · `Vite` · `YouTube Data API` · `Easy Peasy`
 
@@ -523,6 +599,9 @@ A React-based YouTube client focused on creating a cleaner and more focused vide
 
 💻 **[GitHub →](https://github.com/Pial-crypto/Clean-Youtube-Project)**
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🌟 More on GitHub
@@ -532,7 +611,6 @@ A React-based YouTube client focused on creating a cleaner and more focused vide
     <img src="https://img.shields.io/badge/View%20More%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-
 ---
 
 # 🧪 Software Quality Assurance
