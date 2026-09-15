@@ -258,27 +258,41 @@ Worked as a React Native Developer contributing to the development and improveme
 
 # 🎓 Thesis
 
-## ⚖️ Bilingual Legal Question Answering Using Large Language Models and Retrieval-Augmented Generation
+## ⚖️ Bilingual Legal Question Answering with LLMs & RAG
 
-Developed a **Bangla-English bilingual legal question answering system** using Large Language Models and Retrieval-Augmented Generation.
+<table>
+<tr>
+<td width="34%" valign="middle">
 
-### 🧠 Research Focus
+<img src="YOUR_LEGAL_QA_IMAGE_URL" alt="Bilingual Legal Question Answering System" width="100%"/>
 
-- 🇧🇩 Bangla-English bilingual legal QA
-- 🤖 Large Language Models
-- 🔎 Retrieval-Augmented Generation
-- 📚 Legal knowledge retrieval
-- 🧪 Model evaluation
-- 📊 BLEU
-- 📈 ROUGE-L
-- 🎯 F1 Score
-- 📑 Citation Accuracy
-- ⚠️ Hallucination Rate
+</td>
 
-### 🔬 Models Evaluated
+<td width="66%" valign="top">
 
-- **Qwen**
-- **TinyLlama**
+### 🧠 Research Overview
+
+A **Bangla-English bilingual legal question answering system** built using **Large Language Models (LLMs)** and **Retrieval-Augmented Generation (RAG)** to improve legal knowledge retrieval, answer quality, and citation reliability.
+
+### 🔬 Research Focus
+
+- 🇧🇩 **Bangla-English Bilingual Legal QA**
+- 🤖 **Large Language Models**
+- 🔎 **Retrieval-Augmented Generation**
+- 📚 **Legal Knowledge Retrieval**
+- 🧪 **Model Evaluation**
+- 📊 **BLEU · ROUGE-L**
+- 🎯 **F1 Score**
+- 📑 **Citation Accuracy**
+- ⚠️ **Hallucination Rate**
+
+### 🧠 Models Evaluated
+
+`Qwen` · `TinyLlama`
+
+</td>
+</tr>
+</table>
 
 ---
 
